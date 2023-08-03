@@ -1,0 +1,15 @@
+C:\Users\Marina\Desktop\dz25.07\dz28.07\bin\Debug\net7.0\dz28.07.exe
+C:\Users\Marina\Desktop\dz25.07\dz28.07\bin\Debug\net7.0\dz28.07.deps.json
+C:\Users\Marina\Desktop\dz25.07\dz28.07\bin\Debug\net7.0\dz28.07.runtimeconfig.json
+C:\Users\Marina\Desktop\dz25.07\dz28.07\bin\Debug\net7.0\dz28.07.dll
+C:\Users\Marina\Desktop\dz25.07\dz28.07\bin\Debug\net7.0\dz28.07.pdb
+C:\Users\Marina\Desktop\dz25.07\dz28.07\obj\Debug\net7.0\dz28.07.csproj.AssemblyReference.cache
+C:\Users\Marina\Desktop\dz25.07\dz28.07\obj\Debug\net7.0\dz28.07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\Desktop\dz25.07\dz28.07\obj\Debug\net7.0\dz28.07.AssemblyInfoInputs.cache
+C:\Users\Marina\Desktop\dz25.07\dz28.07\obj\Debug\net7.0\dz28.07.AssemblyInfo.cs
+C:\Users\Marina\Desktop\dz25.07\dz28.07\obj\Debug\net7.0\dz28.07.csproj.CoreCompileInputs.cache
+C:\Users\Marina\Desktop\dz25.07\dz28.07\obj\Debug\net7.0\dz28.07.dll
+C:\Users\Marina\Desktop\dz25.07\dz28.07\obj\Debug\net7.0\refint\dz28.07.dll
+C:\Users\Marina\Desktop\dz25.07\dz28.07\obj\Debug\net7.0\dz28.07.pdb
+C:\Users\Marina\Desktop\dz25.07\dz28.07\obj\Debug\net7.0\dz28.07.genruntimeconfig.cache
+C:\Users\Marina\Desktop\dz25.07\dz28.07\obj\Debug\net7.0\ref\dz28.07.dll
