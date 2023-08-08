@@ -205,3 +205,53 @@
 // 11 16 15 06
 // 10 09 08 07
 
+// 64 Задайте значение N. Напишите программу, которая выведет все натуральные числа
+//  в промежутке от N до 1. Выполнить с помощью рекурсии.
+// N = 5 -> "5, 4, 3, 2, 1"
+// N = 8 -> "8, 7, 6, 5, 4, 3, 2, 1"
+
+// void PrintNumbers(int number)
+//             {
+//                 if (number > 0)
+//                 {
+//                     Console.Write(number + ", ");
+//                     PrintNumbers(number - 1);
+//                 }
+//                 else
+//                 {
+//                     Console.WriteLine();
+//                 }
+//             }
+
+//             Console.Write("Введите значение N: ");
+//             int n = int.Parse(Console.ReadLine());
+//             Console.WriteLine("Результат:");
+//             PrintNumbers(n);
+
+
+// Задача 66: Задайте значения M и N. Напишите программу, которая найдёт сумму
+//  натуральных элементов в промежутке от M до N.
+// M = 1; N = 15 -> 120
+// M = 4; N = 8. -> 30
+
+// Console.WriteLine("Введите значение N: ");
+// int n = Convert.ToInt32(Console.ReadLine());
+// Console.WriteLine("Введите значение M: ");
+// int m = Convert.ToInt32(Console.ReadLine());
+
+// int SumRange(int n1, int m1)
+//             {
+//                 int sum = n1;
+
+//                 if (n1 < m1)
+//                 {
+//                     sum += SumRange(++n1, m1);
+//                 }
+
+//                 return sum;
+                
+//             }
+
+        
+//             Console.WriteLine($"Результат: {SumRange(n, m)}");
+
